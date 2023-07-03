@@ -1,0 +1,1 @@
+To work correctly, you need to import the database into MySQL.
