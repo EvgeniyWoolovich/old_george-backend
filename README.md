@@ -1,4 +1,4 @@
-# Node.js Rest APIs with Express & MySQL example
+# Node.js Rest APIs with Express & MySQL
 
 For database:
 To work correctly, you need to import the database into MySQL.
